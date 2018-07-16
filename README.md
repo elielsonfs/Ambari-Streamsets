@@ -15,7 +15,7 @@ Guia de apoio para instalar e gerência um serviço customizado para o Streamset
     
     cd /var/lib/ambari-server/resources/stacks/HDP/2.6/services
     mkdir STREAMSETS
-    git clone https://github.com/tharcisiofernand/Ambari-Streamsets.git
+    git clone https://github.com/cQuantt/Ambari-Streamsets.git
 
 # Reiniciando o Ambari
 
